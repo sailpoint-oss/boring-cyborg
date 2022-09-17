@@ -124,16 +124,17 @@ default_permissions:
   # https://developer.github.com/v3/apps/permissions/
   # organization_administration: read
 
-
 # The name of the GitHub App. Defaults to the name specified in package.json
-name: boring-cyborg
+name: Codey Bot
 
 # The homepage of your GitHub App.
-url: https://github.com/kaxil/boring-cyborg
+url: https://github.com/sailpoint-oss/sp-devrel-github-bot-codey
 
 # A description of the GitHub App.
-description: A Github bot to automatically label PRs, issues and perform the boring operations
+description:
+  A GitHub App built with Probot that automatically labels PR and issues, and
+  performs all the boring operations that you don't want to do!
 
 # Set to true when your GitHub App is available to the public or false when it is only accessible to the owner of the app.
 # Default: true
-# public: false
+public: false

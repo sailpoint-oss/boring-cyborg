@@ -1,14 +1,15 @@
 {
-  "name": "boring-cyborg",
+  "name": "Codey Bot",
   "version": "1.0.0",
   "private": true,
-  "description": "🤖 A Github bot to automatically label PRs, issues and perform the boring operations",
-  "author": "Kaxil Naik",
+  "description": "A GitHub App built with Probot that automatically labels PR and issues, and performs all the boring operations that you don't want to do!",
+  "author": "Jordan Violet",
   "license": "ISC",
-  "repository": "https://github.com/kaxil/boring-cyborg.git",
-  "homepage": "https://github.com/kaxil/boring-cyborg",
-  "bugs": "https://github.com/kaxil/boring-cyborg/issues",
+  "repository": "https://github.com/sailpoint-oss/sp-devrel-github-bot-codey.git",
+  "homepage": "https://github.com/sailpoint-oss/sp-devrel-github-bot-codey",
+  "bugs": "https://github.com/sailpoint-oss/sp-devrel-github-bot-codey/issues",
   "keywords": [
+    "codey",
     "probot",
     "github",
     "probot-app"
