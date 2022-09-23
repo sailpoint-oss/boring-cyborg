@@ -4,7 +4,6 @@
 [boring-cyborg](https://github.com/kaxil/boring-cyborg), a GitHub App built with
 [Probot](https://github.com/probot/probot) that automatically labels PR and
 issues, and performs all the boring operations that you don't want to do!
-
 ## Aforementioned Boring Operations
 
 - Add labels based on the path of the file(s) that are modified in the PR.
